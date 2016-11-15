@@ -30,3 +30,6 @@ In this project, you’ll be writing a Python module that uses the PostgreSQL da
 <br>7. After a match, players have updated standings.
 <br>8. After one match, players with one win are paired.
 <br>Success! All tests pass!
+
+Reference:
+https://www.udacity.com/course/viewer#!/c-ud197-nd/
